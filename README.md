@@ -45,7 +45,7 @@ CoinStack is built to provide an optimal crypto experience with seamless portfol
 - **Transaction History:** Detailed history of all transactions.
 - **Wallet-to-Wallet Transfers:** Seamless crypto transfers between users.
 - **Real-Time Data Integration:** Live cryptocurrency data via the CoinGecko API.
-- **Payment Integration:** Integrated with Razorpay and Stripe for processing payments.
+- **Payment Integration:** Integrated with Razorpay for processing payments.
 - **Modern UI:** Frontend built with React, Tailwind CSS, and Shadcn UI for a responsive and sleek design.
 
 ---
