@@ -191,6 +191,12 @@ For any questions or feedback, please reach out to:
 
 - **Krishna Bhavsar**  
   [GitHub Profile](https://github.com/krishnabhavsar10)
+- **Kalyani Chapolkar**
+  [GitHub Profile](https://github.com/kalyanichaporkar)
+- **Vikrant Naik**
+  [GitHub Profile](https://github.com/Vikrant9098)
+- **Mansi Kuraria**
+  [GitHub Profile](https://github.com/MansiKuraria)
 
 ---
 
