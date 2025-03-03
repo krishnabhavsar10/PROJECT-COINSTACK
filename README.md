@@ -189,8 +189,7 @@ Please ensure your code adheres to the project's coding standards and includes a
 
 For any questions or feedback, please reach out to:
 
-- **Krishna Bhavsar**  
-  [GitHub Profile](https://github.com/krishnabhavsar10)
+- **Krishna Bhavsar**  [GitHub Profile](https://github.com/krishnabhavsar10)
 - **Kalyani Chapolkar**
   [GitHub Profile](https://github.com/kalyanichaporkar)
 - **Vikrant Naik**
